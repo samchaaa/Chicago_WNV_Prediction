@@ -1,6 +1,6 @@
 # Chicago WNV Prediction
 
-This is a group project for the [West Nile Virus Prediction Kaggle Competition](https://www.kaggle.com/c/predict-west-nile-virus).
+This is a group project for the [West Nile Virus Prediction Kaggle Competition](https://www.kaggle.com/c/predict-west-nile-virus). Modeling and prediction process can be seen in the [Model and Prediction notebook](https://github.com/samchaaa/Chicago_WNV_Prediction/blob/master/Model%20and%20Predictions.ipynb). Best Kaggle score was 0.67.
 
 # EDA:
 

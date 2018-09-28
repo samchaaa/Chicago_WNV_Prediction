@@ -1,5 +1,6 @@
-# proj4_group_repo
-Project 4: Group 2 - Predicting Chicago WNV
+# Chicago WNV Prediction
+
+This is a group project for the [West Nile Virus Prediction Kaggle Competition](https://www.kaggle.com/c/predict-west-nile-virus).
 
 # EDA:
 

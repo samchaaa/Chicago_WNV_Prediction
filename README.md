@@ -56,5 +56,5 @@ All Kaggle submission .csv.
 ---
 Viz: https://public.tableau.com/profile/sam.c7069#!/vizhome/ChicagoWNV_0/Map-ChicagoWNV?publish=yes
 
-Slides: https://docs.google.com/presentation/d/16lK1tgRsx71pVeUpVn1VS1ZqgT3O418iS_QGK2pM940/edit?usp=sharing
+Slides: https://docs.google.com/presentation/d/16lK1tgRsx71pVeUpVn1VS1ZqgT3O418iS_QGK2pM940/present?usp=sharing
 
